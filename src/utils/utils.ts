@@ -7,6 +7,8 @@ function capitalizeFirstLetter(input: string): string {
 
 export function getDataColumns(
   transaction: TransactionData,
+  sortingEnabled: boolean = true,
+  filterEnabled: boolean = true,
   capitalizationEnabled: boolean = true,
   nonCapitalizationList: string[] = ["sizeValueUSD"],
   hiddenColumnNameList: string[] = ["id"]
@@ -19,6 +21,8 @@ export function getDataColumns(
           !capitalizationEnabled || nonCapitalizationList.includes(header)
             ? header
             : capitalizeFirstLetter(header),
+        sortField: sortingEnabled ? header : undefined,
+        filterField: filterEnabled ? header : undefined,
         renderCell: (data: TransactionData) => {
           const headerType = typeof data[header];
           if (headerType === "boolean") {
@@ -31,4 +35,19 @@ export function getDataColumns(
         },
       };
     });
+}
+
+export function compareFn(
+  key: string,
+  sortDirection: string,
+  first: TransactionData,
+  second: TransactionData
+) {
+  if (first[key] < second[key]) {
+    return sortDirection === "ascending" ? -1 : 1;
+  }
+  if (first[key] > second[key]) {
+    return sortDirection === "ascending" ? 1 : -1;
+  }
+  return 0;
 }
