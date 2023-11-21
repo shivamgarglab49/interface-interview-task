@@ -1,0 +1,328 @@
+[
+  {
+    "id": "10315056",
+    "name": "Brindisi 25MW Battery Storage",
+    "type": "Greenfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Power",
+    "subsector": "Battery Storage",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "9554736",
+    "name": "Companhia de Concessoes Rodoviarias (CCR) Sale (14.8% stake) (Second Attempt) (2021)",
+    "type": "Brownfield",
+    "regions": [
+      "Latin America"
+    ],
+    "sector": "Transport",
+    "subsector": "Roads",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Indicative Bids"
+  },
+  {
+    "id": "10309486",
+    "name": "Garden Island Naval Base PPP (2022)",
+    "type": "Greenfield",
+    "regions": [
+      "Australasia"
+    ],
+    "sector": "Social Infrastructure",
+    "subsector": "Accommodation",
+    "PPP": true,
+    "sizeValueUSD": 2271.98,
+    "status": "Pre-Launch"
+  },
+  {
+    "id": "10311456",
+    "name": "Gerjen and Söjtör 80MW Solar PV",
+    "type": "Greenfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Renewables",
+    "subsector": "Solar PV",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10311126",
+    "name": "Kairouan City 100MW Solar PV",
+    "type": "Greenfield",
+    "regions": [
+      "Africa"
+    ],
+    "sector": "Renewables",
+    "subsector": "Solar PV",
+    "PPP": false,
+    "sizeValueUSD": 100,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10317821",
+    "name": "Lockyer Energy Gas and Battery Project Sale (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Australasia"
+    ],
+    "sector": "Power",
+    "subsector": "Battery Storage",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Transaction Launch"
+  },
+  {
+    "id": "10310356",
+    "name": "NZ Bus Sale (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Australasia"
+    ],
+    "sector": "Transport",
+    "subsector": "Transport Other",
+    "PPP": false,
+    "sizeValueUSD": 273,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10311116",
+    "name": "Spanish Interbus Sale (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Transport",
+    "subsector": "Transport Other",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Indicative Bids"
+  },
+  {
+    "id": "10301711",
+    "name": "Meta Department Highway Upgrade Package - Malla Vial del Meta (Los Llanos) Sale (Pre-construction) (30% stake) (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Latin America"
+    ],
+    "sector": "Transport",
+    "subsector": "Roads",
+    "PPP": false,
+    "sizeValueUSD": 17.2,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "5204561",
+    "name": "Miyagi University of Education Dormitory Facilities Redevelopment PFI",
+    "type": "Greenfield",
+    "regions": [
+      "Asia",
+      "Europe"
+    ],
+    "sector": "Social Infrastructure",
+    "subsector": "Social Infrastructure Other",
+    "PPP": true,
+    "sizeValueUSD": 21,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10317856",
+    "name": "Pune Cancer Hospital PPP",
+    "type": "Greenfield",
+    "regions": [
+      "Asia"
+    ],
+    "sector": "Social Infrastructure",
+    "subsector": "Healthcare",
+    "PPP": true,
+    "sizeValueUSD": 129.83,
+    "status": "Pre-Launch"
+  },
+  {
+    "id": "10317881",
+    "name": "Pune Riverfront Development Project Phase 2",
+    "type": "Greenfield",
+    "regions": [
+      "Asia"
+    ],
+    "sector": "Social Infrastructure",
+    "subsector": "Social Infrastructure Other",
+    "PPP": true,
+    "sizeValueUSD": 45.4,
+    "status": "Pre-Launch"
+  },
+  {
+    "id": "10315346",
+    "name": "Purwokerto - Cilacap 20KM Road",
+    "type": "Greenfield",
+    "regions": [
+      "Asia"
+    ],
+    "sector": "Transport",
+    "subsector": "Roads",
+    "PPP": false,
+    "sizeValueUSD": 80,
+    "status": "Transaction Launch"
+  },
+  {
+    "id": "10311101",
+    "name": "Purwokerto Mixed-Used Project",
+    "type": "Greenfield",
+    "regions": [
+      "Asia"
+    ],
+    "sector": "Social Infrastructure",
+    "subsector": "Accommodation",
+    "PPP": false,
+    "sizeValueUSD": 27,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10309321",
+    "name": "Sacramento 200MW Solar and BESS Project",
+    "type": "Greenfield",
+    "regions": [
+      "North America"
+    ],
+    "sector": "Renewables",
+    "subsector": "Solar PV",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10309646",
+    "name": "Saur Water Majority Stake Sale (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Environment",
+    "subsector": "Water",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Pre-Launch"
+  },
+  {
+    "id": "10311326",
+    "name": "Scandinavian 325MW Danish Wind Portfolio Sale (2022)",
+    "type": "Greenfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Renewables",
+    "subsector": "Onshore wind",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "9952466",
+    "name": "AP-7 Alicante-Cartagena Motorway Concession (75% Stake) (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Transport",
+    "subsector": "Roads",
+    "PPP": true,
+    "sizeValueUSD": 0,
+    "status": "Shortlisted Proponents"
+  },
+  {
+    "id": "10304216",
+    "name": "Attica Waste PPP (27 yrs) (2022)",
+    "type": "Greenfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Environment",
+    "subsector": "Waste",
+    "PPP": false,
+    "sizeValueUSD": 108.76,
+    "status": "Pre-Qualified Proponents"
+  },
+  {
+    "id": "10303506",
+    "name": "Attica Waste PPP (30 yrs) (2022)",
+    "type": "Greenfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Environment",
+    "subsector": "Waste",
+    "PPP": false,
+    "sizeValueUSD": 163.14,
+    "status": "Pre-Qualified Proponents"
+  },
+  {
+    "id": "10298246",
+    "name": "Envirotainer Majority Stake Sale (2022)",
+    "type": "Brownfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Transport",
+    "subsector": "Transport Other",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Pre-Launch"
+  },
+  {
+    "id": "9493456",
+    "name": "Giurgiu 45MW Solar PV Plant Sale (2021)",
+    "type": "Brownfield",
+    "regions": [
+      "Europe"
+    ],
+    "sector": "Renewables",
+    "subsector": "Solar PV",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "9373961",
+    "name": "Greenlight Networks FTTH Majority Stake Sale (2021)",
+    "type": "Brownfield",
+    "regions": [
+      "North America"
+    ],
+    "sector": "Telecommunications",
+    "subsector": "Fibre Optic",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "2527536",
+    "name": "Hamilton Health Sciences - West Lincoln P3",
+    "type": "Greenfield",
+    "regions": [
+      "North America"
+    ],
+    "sector": "Social Infrastructure",
+    "subsector": "Healthcare",
+    "PPP": true,
+    "sizeValueUSD": 391.51,
+    "status": "Preferred Proponent"
+  },
+  {
+    "id": "10298221",
+    "name": "Oman Green Ammonia Facility",
+    "type": "Greenfield",
+    "regions": [
+      "Middle East"
+    ],
+    "sector": "Renewables",
+    "subsector": "Biogas",
+    "PPP": false,
+    "sizeValueUSD": 0,
+    "status": "Preferred Proponent"
+  }
+]

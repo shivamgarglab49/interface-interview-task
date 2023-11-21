@@ -1,0 +1,75 @@
+{
+  "name": "interface-interview-task",
+  "version": "1.0.0",
+  "author": "IONA Interface",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "test": "jest",
+    "type-check": "tsc"
+  },
+  "jest": {
+    "testEnvironment": "jsdom",
+    "transform": {
+      "\\.tsx?$": [
+        "ts-jest"
+      ]
+    },
+    "moduleFileExtensions": [
+      "ts",
+      "tsx",
+      "js",
+      "json"
+    ],
+    "roots": [
+      "src"
+    ],
+    "testMatch": [
+      "<rootDir>/src/**/*.test.ts(|x)"
+    ],
+    "setupFilesAfterEnv": [ "<rootDir>/jest.setup.js" ]
+  },
+  "devDependencies": {
+    "@babel/preset-typescript": "^7.15.0",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^12.0.0",
+    "@testing-library/user-event": "^13.2.1",
+    "@types/jest": "^27.0.1",
+    "@types/react": "^17.0.20",
+    "@types/styled-components": "^5.1.14",
+    "downshift": "^6.1.7",
+    "jest": "^27.1.1",
+    "normalize.css": "^8.0.1",
+    "parcel": "^2.0.0-beta.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "styled-components": "^5.3.1",
+    "ts-jest": "^27.0.5",
+    "typescript": "^4.4.2"
+  },
+  "babel": {
+    "presets": [
+      "@babel/preset-typescript",
+      [
+        "@babel/preset-react",
+        {
+          "runtime": "automatic"
+        }
+      ]
+    ],
+    "env": {
+      "test": {
+        "presets": [
+          "@babel/preset-env"
+        ]
+      }
+    },
+    "plugins": [
+      [
+        "@babel/plugin-proposal-class-properties",
+        {
+          "loose": true
+        }
+      ]
+    ]
+  }
+}
